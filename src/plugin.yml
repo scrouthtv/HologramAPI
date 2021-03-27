@@ -1,0 +1,8 @@
+name: HologramAPI
+author: ScrouthTV
+main: me.scrouthtv.main.HologramPlugin
+version: 1.0
+commands:
+  holo-create:
+    args: "Usage: /<command> <text>"
+    description: Creates a hologram at the player's position that says the specified text.
